@@ -38,8 +38,7 @@ The Book Recommendation System showcases my proficiency in data analysis, algori
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Abisola Akinjole's LinkedIn Profile](https://www.linkedin.com/in/abisola-akinjole-826136160)
-- Email: [Your Email Address](mailto:your-email@example.com)
+- LinkedIn: [Abisola Akinjole's LinkedIn Profile](https://www.linkedin.com/in/abisola-a-826136160/)
 
 Feel free to reach out for collaboration opportunities or just to chat about all things data!
 
