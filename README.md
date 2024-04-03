@@ -1,6 +1,6 @@
-# Hi there, I'm Abisola Akinjole! 👋
+# Hi there, I am Abisola Akinjole! 👋
 
-I'm a passionate Data Analyst with a knack for transforming raw data into actionable insights. With over three years of hands-on experience, I specialise in leveraging various tools and technologies to drive strategic decision-making and boost organisational profitability.
+I am a passionate Data Analyst with a knack for transforming raw data into actionable insights. With over three years of hands-on experience, I specialise in leveraging various tools and technologies to drive strategic decision-making and boost organisational profitability.
 
 ## 🔧 Skills & Tools
 
