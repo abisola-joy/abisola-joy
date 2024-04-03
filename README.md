@@ -22,8 +22,16 @@ Developed as part of an assignment for Sheffield Hallam University's Big Data An
 
 The Book Recommendation System showcases my proficiency in data analysis, algorithm implementation, and user interface design, providing a practical solution to the challenge of information overload in online content consumption.
 
-### [Heart Failure Prediction]
+### [Heart Failure Prediction](https://github.com/abisola-joy/Heart-Failure-Prediction)
+Developed as part of an assignment for Sheffield Hallam University's Big Data Analytics course, the Heart Failure Prediction project aims to analyse and evaluate heart failure prediction models using machine learning algorithms and data analysis techniques. As the lead developer for this project, my key responsibilities included:
 
+- Conducting exploratory data analysis to identify missing data, perform data preprocessing, and analyse descriptive statistics.
+- Splitting the dataset into training and testing sets and fitting machine learning algorithms including Naïve Bayes, Logistic Regression, Support Vector Machine, Random Forest classifier, K-Nearest Neighbour, and Multi-Layer Perceptron Neural Networks.
+- Evaluating model performance using test data and reporting accuracy, precision, recall, and F1-Score.
+- Investigating class imbalance problems and applying techniques to balance class distribution.
+- Analysing feature significance using statistical tests like Mann-Whitney and Chi-Square tests and selecting relevant features for prediction.
+
+The Heart Failure Prediction project demonstrates my proficiency in data analysis, machine learning model development, and healthcare analytics, contributing to better decision-making in healthcare settings.
 
 ## 📈 GitHub Stats
 
