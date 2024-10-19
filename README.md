@@ -88,9 +88,7 @@ I am a passionate Data Scientist with over four years of experience in the credi
 
 ## 🌱 Current Focus
 
-- Advancing my skills in machine learning and deep learning for credit risk modeling.
-- Exploring advanced data visualisation techniques for financial data.
-- Engaging in open-source data science projects.
+I am currently focused on enhancing my expertise in machine learning and deep learning techniques for credit risk modeling, exploring advanced data visualization techniques, and contributing to open-source data science projects.
 
 ## 📫 Let's Connect!
 
