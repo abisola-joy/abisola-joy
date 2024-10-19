@@ -8,6 +8,7 @@ I am a passionate Data Scientist with over four years of experience in the credi
 <summary>🔧 Skills & Tools</summary>
 
 - **Tools & Technologies**: Python, SQL, Excel, Tableau
+  
 - **Data Science**: Data Cleaning, Data Visualisation, Predictive Modeling, Feature Selection, Model Monitoring (PSI, CSI)
 - **Machine Learning**: Logistic Regression, Decision Trees, Random Forests, Support Vector Machines (SVM), Neural Networks (MLP)
 - **Project Management**: Agile Methodologies, Scrum
@@ -64,6 +65,7 @@ I am a passionate Data Scientist with over four years of experience in the credi
 <summary>Show Project Details</summary>
 
 - **Models Used**: Logistic Regression, Random Forest, SVM, Naive Bayes, MLP
+  
 - **Key Contributions**:
   - Conducted extensive data preprocessing, feature selection, and model evaluation.
   - Tackled class imbalance issues with SMOTE and other techniques.
@@ -79,6 +81,7 @@ I am a passionate Data Scientist with over four years of experience in the credi
 <summary>Show More</summary>
   
 - **Model Monitoring Framework**: Developed a scorecard monitoring framework to monitor model stability using PSI and CSI. Integrated feature-level analysis and performance tracking over time to ensure robust model health.
+  
 - **Regulatory Compliance**: Worked on projects adhering to IFRS 9 and Basel II/III guidelines, focusing on Probability of Default (PD), Loss Given Default (LGD), and Exposure at Default (EAD).
   
 </details>
