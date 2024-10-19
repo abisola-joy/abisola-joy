@@ -48,7 +48,7 @@ I am a passionate Data Scientist with over four years of experience in the credi
 - **Techniques**: Collaborative filtering with Pearson correlation, Cosine similarity, and Minkowski distance.
 
 - **Key Contributions**:
-  - Designed and implemented an interactive recommendation engine to generate personalized book recommendations.
+  - Designed and implemented an interactive recommendation engine to generate personalised book recommendations.
   - Built a user-friendly interface for browsing recommendations and viewing details.
   - Ensured efficient handling of missing data and system errors for robust performance.
 
@@ -88,7 +88,7 @@ I am a passionate Data Scientist with over four years of experience in the credi
 
 ## 🌱 Current Focus
 
-I am currently focused on enhancing my expertise in machine learning and deep learning techniques for credit risk modeling, exploring advanced data visualization techniques, and contributing to open-source data science projects.
+I am currently focused on enhancing my expertise in machine learning and deep learning techniques for credit risk modeling, exploring advanced data visualisation techniques, and contributing to open-source data science projects.
 
 ## 📫 Let's Connect!
 
