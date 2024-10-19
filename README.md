@@ -1,15 +1,18 @@
 # Hi there, I am Abisola Akinjole! 👋
 
-I am a passionate Data Analyst with a knack for transforming raw data into actionable insights. With over three years of hands-on experience, I specialise in leveraging various tools and technologies to drive strategic decision-making and boost organisational profitability.
+Aspiring Credit Risk Data Scientist
+
+I am a passionate Data Analyst with over fours years of experience, currently specialising in credit risk modeling and data-driven insights. My expertise lies in developing predictive models that support critical decision-making in financial services, using cutting-edge tools and methodologies to assess and mitigate risk. I have a strong foundation in machine learning, data preprocessing, and model validation with a focus on regulatory compliance.
 
 ## 🔧 Skills & Tools
 
-- **Languages**: Python, SQL
-- **Tools & Technologies**: Excel, Tableau, SAS, R, Hadoop
+- **Tools & Technologies**: Python, SQL, Excel, Tableau
+- **Machine Learning**: Predictive Modeling, Feature Engineering, Hyperparameter Tuning
+- **Risk Analysis**: Credit Scoring, Stability Index (PSI, CSI), Gini Coefficient
 - **Data Analysis**: Data Cleaning, Data Visualisation, Predictive Modelling
 - **Project Management**: Agile Methodologies, Scrum
 
-## 📊 Projects
+## 📊 Featured Projects
 
 ### [Intelligent Service Recommendation Engine](https://github.com/abisola-joy/Intelligent-Service-Recommendation-Engine)
 Developed as part of an assignment for Sheffield Hallam University's Big Data Analytics course, the Book Recommendation System is an intelligent service recommendation engine designed to improve sales for an online book-selling company. As the data engineer responsible for the project, my key contributions included:
