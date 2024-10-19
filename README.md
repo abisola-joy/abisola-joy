@@ -80,7 +80,7 @@ I am a passionate Data Scientist with over four years of experience in the credi
 <details>
 <summary>Show More</summary>
   
-- **Model Monitoring Framework**: Developed a scorecard monitoring framework to monitor model stability using PSI and CSI. Integrated feature-level analysis and performance tracking over time to ensure robust model health.
+- **Model Monitoring Framework**: Developed a scorecard, and a monitoring framework to monitor model stability using PSI and CSI. Integrated feature-level analysis and performance tracking over time to ensure robust model health.
   
 - **Regulatory Compliance**: Worked on projects adhering to IFRS 9 and Basel II/III guidelines, focusing on Probability of Default (PD), Loss Given Default (LGD), and Exposure at Default (EAD).
   
