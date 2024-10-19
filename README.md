@@ -92,8 +92,8 @@ I am currently focused on enhancing my expertise in machine learning and deep le
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Abisola Akinjole's LinkedIn Profile](https://www.linkedin.com/in/abisola-a-826136160/)
-- GitHub: [Abisola's GitHub Profile](https://github.com/abisola-joy)
+- **LinkedIn**: [Abisola Akinjole's LinkedIn Profile](https://www.linkedin.com/in/abisola-a-826136160/)
+- **GitHub**: [Abisola's GitHub Profile](https://github.com/abisola-joy)
 
 <!--
 ## 📈 GitHub Stats
